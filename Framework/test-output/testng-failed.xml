@@ -5,7 +5,11 @@
     <classes>
       <class name="com.learnautomation.testcases.LoginTestCRM">
         <methods>
+          <include name="setUpSuite"/>
           <include name="loginApp"/>
+          <include name="tearDown"/>
+          <include name="tearDownMethod"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- com.learnautomation.testcases.LoginTestCRM -->
     </classes>
