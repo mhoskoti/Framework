@@ -1,0 +1,4 @@
+com\learnautomation\pages\LoginPage.class
+com\learnautomation\pages\BaseClass.class
+com\learnautomation\testcases\LoginTestCRM.class
+com\learnautomation\utility\BrowserFactory.class
